@@ -1,1 +1,0 @@
-Kochirish_uchun.txt
